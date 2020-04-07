@@ -16,7 +16,7 @@
 将```recipient-address-splitter.js```拷贝至你的项目中，在html文件中加入：
 
 ```
-<script src="js/address-splitter.js"></script>
+<script src="js/recipient-address-splitter.js"></script>
 <script>
   ...
   addr = RecipientAddressSplitter('张三13508348543 北京市北京市东城区前门大街1号')
